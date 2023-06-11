@@ -2,14 +2,15 @@
 Discover a world of stylish eyewear at LenssHub, the go-to website for trendy frames and exceptional vision solutions.<br>
 ## Implementation:
 1. Created a responsive UI using HTML, CSS and JavaScript.
-2. Implemented login/logout, wishlist, cart, and CRUD operations using PHP.
-3. Managed user's data via RDBMS using MySQL Language on XAMPP (phpMyAdmin).
+2. Cretaed a Chatbot using Javascript.
+3. Implemented login/logout, wishlist, cart, and CRUD operations using PHP.
+4. Managed user's data via RDBMS using MySQL Language on XAMPP (phpMyAdmin).
 ## Tech Stack:
 HTML - for Front End<br>
 CSS - for Styling<br>
 Javascript - to Create Chatbot<br>
 PHP - to Connect Front-End with Database<br>
-MySQL - to Create Relatioanl Ddatabase<br>
+MySQL - to Create Relational Database<br>
 ## Tools Required:
 1. VS Code
 2. XAMPP
